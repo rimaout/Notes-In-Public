@@ -1,5 +1,5 @@
 ---
-title: Welcome to Notes in Public
+title: Welcome to Notes In Public
 ---
 - [[Uni MOC]]
 - [[Programming MOC]]
