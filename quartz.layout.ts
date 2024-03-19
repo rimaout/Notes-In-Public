@@ -7,8 +7,9 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "My GitHub Profile": "https://github.com/rimaout",
+      "Website Source Code": "https://github.com/rimaout/Notes-In-Public",
+      "Report an error": "https://github.com/rimaout/Notes-In-Public/issues/new",
     },
   }),
 }
@@ -26,12 +27,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.TableOfContents()),
+    //Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    //Component.DesktopOnly(Component.TableOfContents()),
+    //Component.Backlinks(),
   ],
 }
 
