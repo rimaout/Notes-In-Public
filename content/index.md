@@ -1,6 +1,4 @@
+title: Welcome to Notes In Public
 ---
-title: Welcome to Quartz
----
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+- [[Uni MOC]]
+- [[Programming MOC]]
