@@ -1,5 +1,5 @@
 ---
-name: Bug / Software error
+name: Bug / Software Error Report
 about: 'Something about Notes-In-Public isn''t working the way you expect '
 title: BUG - [add simple bug description]
 labels: bug
