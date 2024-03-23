@@ -6,4 +6,4 @@ You can find the site at [notesinpublic.xyz](https://notesinpublic.xyz) and the 
 
 ### Issues
 
-If you encounter any problems with the notes or the website, or if you have any suggestions for improvements, please create an issue. Thanks for the help 😸
+If you encounter any problems with the notes or the website, or if you have any suggestions for improvements, please [create an issue](https://github.com/rimaout/Notes-In-Public/issues/new/choose). Thanks for the help 😸
