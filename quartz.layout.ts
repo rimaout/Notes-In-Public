@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "My GitHub Profile": "https://github.com/rimaout",
       "Website Source Code": "https://github.com/rimaout/Notes-In-Public",
-      "Report an error": "https://github.com/rimaout/Notes-In-Public/issues/new",
+      "Report an error": "https://github.com/rimaout/Notes-In-Public/issues/new/choose",
     },
   }),
 }
