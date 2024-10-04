@@ -11,20 +11,18 @@ updated: 2024-10-03T16:20
 
 ## 📚 University Notes
 
->[!column|clean no-t]
->
->>[!note] First year, first semester
->>- [[Matematica 0 (class)|Matematica 0]]
->>- [[Progettazione Sistemi Digitali (class)|Progettazione Sistemi Digitali]]
->>- [[Calcolo Differenziale (class)|Calcolo Differenziale]]
->>- [[Metodi matematici per l'informatica (class)|Metodi matematici per l'informatica]]
->>- [[Programmazione Calcolatori (Class)|Programmazione Calcolatori]]
->
->>[!note] First year, second semester
->>- [[Calcolo Integrale (class)|Calcolo Integrale]]
->>- [[Architettura (class)|Architettura dei Calcolatori]]
->>- [[Introduzione agli Algoritmi (class)|Introduzione agli Algoritmi]]
->>- [[Metodologie di Programmazione (class)|Metodologie di Programmazione]]
+**First year, first semester:**
+- [[Matematica 0 (class)|Matematica 0]]
+- [[Progettazione Sistemi Digitali (class)|Progettazione Sistemi Digitali]]
+- [[Calcolo Differenziale (class)|Calcolo Differenziale]]
+- [[Metodi matematici per l'informatica (class)|Metodi matematici per l'informatica]]
+- [[Programmazione Calcolatori (Class)|Programmazione Calcolatori]]
+
+**First year, second semester:**
+- [[Calcolo Integrale (class)|Calcolo Integrale]]
+- [[Architettura (class)|Architettura dei Calcolatori]]
+- [[Introduzione agli Algoritmi (class)|Introduzione agli Algoritmi]]
+- [[Metodologie di Programmazione (class)|Metodologie di Programmazione]]
 
 >**Second year, first semester:**
 - [[Sistemi Operativi 1 (class)|Sistemi Operativi 1]]

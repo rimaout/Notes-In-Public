@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHib: "https://github.com/rimaout",
+      GitHub: "https://github.com/rimaout",
       "Website Source Code": "https://github.com/rimaout/Notes-In-Public",
       "Report an error": "https://github.com/rimaout/Notes-In-Public/issues/new",
     },
