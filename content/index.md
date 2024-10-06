@@ -44,7 +44,7 @@ updated: 2024-10-03T16:20
 ## 🪴 My Personal Garden
 
 >**Personal Projects:**
-- [[Monthly Log]]
+- [[Monthly Logs]]
 - [[My Recipe Book]]
 - [[Product usage analysis]]
 - [[My Resonance Calendar]]
