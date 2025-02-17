@@ -1,3 +1,27 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+
+// center images
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+// customize italic italic
+em {
+    background-color: var(--highlight);
+    padding: 1px;
+    border-radius: 4.5px;
+    font-style: normal; /* Remove italic formatting */
+}
+
+// change bold color
+strong, .page article p > strong {
+    color: var(--tertiary);
+}
+
+// customize bold italic
+em strong, strong em {
+    color: var(--darkgray);
+}
