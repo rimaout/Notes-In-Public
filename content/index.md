@@ -1,7 +1,9 @@
 ---
 title: Welcome to Notes In Public
+description: 👋 Hi, I'm Matteo, a Computer Science student. I'm using this website to share my notes and thoughts about the subjects I'm studying, I hope you find them useful.
 ---
-👋 ***Hi***, I'm ***Matteo***, a Computer Science student. I'm using this website to share my notes and thoughts about the subjects I'm studying. I hope you find them useful.
+
+👋 ***Hi***, I'm ***Matteo***, a Computer Science student. I'm using this website to share my notes and thoughts about the subjects I'm studying, I hope you find them useful.
 
 >***Warning:*** This website is a work in progress, some notes may be wrong, incomplete or missing. Use them at your own risk!! If you find any errors, [please let me know.](https://github.com/rimaout/Notes-In-Public/issues/new/choose)
 
@@ -33,6 +35,12 @@ title: Welcome to Notes In Public
 - [[Basi di Dati 1 (class)|Basi di Dati 1]]
 - [[Calcolo delle Probabilità (class)|Calcolo delle Probabilità]]
 - [Algebra](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+>***Second year, seconf semester:***
+- [[Sistemi Operativi 2 (class)|Sistemi Operativi 2]]
+- [[Basi di Dati 2 (class)|Basi di Dati 2]]
+- [[Algoritmi 2 (class)|Algoritmi 2]]
+- [[Reti (class)|Reti di Calcolatori]]
 
 ## 👨‍💻Tecnical Notes
 

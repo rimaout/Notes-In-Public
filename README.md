@@ -1,18 +1,11 @@
-# Quartz v4
+# Notes In Public
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This is the repository that I use to deploy a [Quartz](https://github.com/jackyzha0/quartz)-based site for _**Notes In Public**_, my personal collection of Markdown notes. I use these notes to write down everything I learn, from university notes to documentation for some of my projects.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+You can find the site at [notesinpublic.xyz](https://notesinpublic.xyz) and the repository where I store the Markdown notes themselves [here](https://github.com/rimaout/Obsidian-Vault).
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+---
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+### Replicate 🔨
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+If you want to build somthing similar, I have documented the exact steps I took to deploy [notesinpublic](https://notesinpublic.xyz) in this guide [Quartz Setup Proces](https://notesinpublic.xyz/vault/3.-MOCS/Tech-MOC/archive/Quartz-Setup-Proces).
