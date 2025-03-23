@@ -1,5 +1,10 @@
 @use "./base.scss";
 
+/* Custom Modules */
+@use "./custom/column-callout.scss";
+
+
+/* Custom Styles */
 
 // center images
 img {
@@ -8,7 +13,7 @@ img {
     margin-right: auto;
 }
 
-// customize italic italic
+// customize italic
 em {
     background-color: var(--highlight);
     padding: 1px;
