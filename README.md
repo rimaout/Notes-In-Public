@@ -8,4 +8,4 @@ You can find the site at [notesinpublic.xyz](https://notesinpublic.xyz) and the 
 
 ### Replicate 🔨
 
-If you want to build somthing similar, I have documented the exact steps I took to deploy [notesinpublic](https://notesinpublic.xyz) in this guide [Quartz Setup Proces](https://notesinpublic.xyz/vault/3.-MOCS/Tech-MOC/archive/Quartz-Setup-Proces).
+If you want to build somthing similar, I have documented the exact steps I took to deploy [notesinpublic](https://notesinpublic.xyz) in this guide [My Quartz Setup Proces](https://notesinpublic.xyz/vault/3.-MOCS/Tech-MOC/archive/My-Quartz-Setup-Process).
