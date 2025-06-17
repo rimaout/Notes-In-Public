@@ -1,11 +1,14 @@
 @use "../base.scss";
 
-/* Multi Column Callout */
-
-/* Basic variables (in English) */
+/* Basic variables */
 :root {
   --callout-min-width: 200px;
   --callout-gap: 1em;
+}
+
+/* Removes the Title */
+.callout[data-callout="column"] > .callout-title {
+  display: none;
 }
 
 /* Style for the multi-column callout */
@@ -18,13 +21,8 @@
   padding: 0;
 }
 
-/* Removes the Title */
-.callout[data-callout="column"] > .callout-title {
-  display: none;
-}
-
 /* Make the main callout content occupy full width */
-.callout[data-callout="column"] > .callout-content {
+.callout[data-callout="column"] > .callout-content > .callout-content-inner {
   display: flex;
   flex-wrap: wrap;
   gap: var(--callout-gap);
@@ -32,29 +30,27 @@
 }
 
 /* Style for internal callouts */
-.callout[data-callout="column"] > .callout-content > .callout {
+.callout[data-callout="column"] > .callout-content > .callout-content-inner > .callout {
   flex: 1 1 var(--callout-min-width);
   margin: 0;
 }
 
 /* Variation for fixed 2 columns */
-.callout[data-callout="column"][data-callout-metadata*="col2"] > .callout-content {
+.callout[data-callout="column"][data-callout-metadata*="col2"] > .callout-content > .callout-content-inner {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
 
 /* Variation for fixed 3 columns */
-.callout[data-callout="column"][data-callout-metadata*="col3"] > .callout-content {
+.callout[data-callout="column"][data-callout-metadata*="col3"] > .callout-content > .callout-content-inner {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
 
-/* Width options for sub-callouts */
-div[data-callout="column"].callout > .callout-content > div[data-callout-metadata*="wide-2"] { 
-  flex-grow: 2; 
+/* Width options */
+.callout[data-callout="column"] > .callout-content > .callout-content-inner > .callout[data-callout-metadata*="wide-2"] {
+  flex-grow: 2;
 }
-
-div[data-callout="column"].callout > .callout-content > div[data-callout-metadata*="wide-3"] { 
-  flex-grow: 3; 
+.callout[data-callout="column"] > .callout-content > .callout-content-inner > .callout[data-callout-metadata*="wide-3"] {
+  flex-grow: 3;
 }
-

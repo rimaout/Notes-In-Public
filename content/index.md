@@ -26,7 +26,7 @@ description: 👋 Hi, I'm Matteo, a Computer Science student. I'm using this web
 
 ## 📚 University Notes
 
->[!column]
+>[!column | col2]
 >
 >>[!note] First Year, First Semester
 >>
@@ -41,8 +41,6 @@ description: 👋 Hi, I'm Matteo, a Computer Science student. I'm using this web
 >>- [[Architettura (class)|Architettura dei Calcolatori]]
 >>- [[Introduzione agli Algoritmi (class)|Introduzione agli Algoritmi]]
 >>- [[Metodologie di Programmazione (class)|Metodologie di Programmazione]]
-
->[!column]
 >
 >>[!note] Second Year, First Semester
 >>
